@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+<<<<<<< HEAD
     <color name="white">#FFFFFFFF</color>
     <color name="my_light_primary">#FFFFFF</color>
     <color name="my_light_onPrimary">#000000</color>
 </resources>
+=======
+    <color name="white">#FFFFFF</color>
+    <color name="my_light_primary">#FFFFFF</color>
+    <color name="my_light_onPrimary">#FF000000</color>"
+</resources>
+>>>>>>> 514e6f9 (jangan dipake)
